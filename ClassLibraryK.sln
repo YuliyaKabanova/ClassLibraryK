@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibraryK", "ClassLibraryK\ClassLibraryK.csproj", "{0AF5B56F-3BB2-4EB8-9347-3C851ACBC7C3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppK", "ConsoleAppK\ConsoleAppK.csproj", "{D3DFF0CE-ADFC-42AE-A07A-69492F5334EB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{0AF5B56F-3BB2-4EB8-9347-3C851ACBC7C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0AF5B56F-3BB2-4EB8-9347-3C851ACBC7C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0AF5B56F-3BB2-4EB8-9347-3C851ACBC7C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3DFF0CE-ADFC-42AE-A07A-69492F5334EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3DFF0CE-ADFC-42AE-A07A-69492F5334EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3DFF0CE-ADFC-42AE-A07A-69492F5334EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3DFF0CE-ADFC-42AE-A07A-69492F5334EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

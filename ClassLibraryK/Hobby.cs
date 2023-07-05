@@ -8,13 +8,11 @@ namespace ClassLibraryK
 {
 	//Кабанова Ю.А. 31ИС
 	//Класс - хобби
-	internal class Hobby
-	{
-		public class hobby : IComparable<Hobby>
+		public class Hobby : IComparable<Hobby>
 		{
 			public string Name { get; set; }
 			public string Description { get; set; }
-			public hobby(string nm, string descr)
+			public Hobby(string nm, string descr)
 			{
 				Name = nm;
 				Description = descr;
@@ -30,5 +28,4 @@ namespace ClassLibraryK
 			}
 		}
 	}
-}
 
