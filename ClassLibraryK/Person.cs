@@ -1,5 +1,7 @@
 ﻿namespace ClassLibraryK
 {
+	//Кабанова Ю.А. 31ИС
+	//Класс - человек
 	public class Person
 	{
 		// книги данного человека
